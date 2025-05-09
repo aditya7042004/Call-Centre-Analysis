@@ -1,7 +1,7 @@
 
 # Call Centre Analysis Dashboard
 ## Dashboard Image
-![image](https://github.com/aditya7042004/Call-Centre-Analysis.git)
+![image](https://github.com/user-attachments/assets/8be8fe6d-8873-43af-bae7-476243f6ff49)
 
 ## Overview
 This project provides an interactive dashboard to analyze call center performance, customer interactions, and agent efficiency. The dashboard visualizes key metrics such as call volume, revenue, duration, customer satisfaction, and demographic trends.
